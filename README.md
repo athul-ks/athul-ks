@@ -179,7 +179,7 @@ I specialize in building robust, cross-platform applications with a "security-fi
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athul-ks&show_icons=true&theme=minimal&hide_border=true" alt="Athul's GitHub Stats" />
+  <img src="https://github-readme-stats-lovat-one-14.vercel.app/api?username=athul-ks&show_icons=true&theme=minimal&hide_border=true" alt="Athul's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athul-ks&layout=compact&theme=minimal&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-lovat-one-14.vercel.app/api/top-langs/?username=athul-ks&layout=compact&theme=minimal&hide_border=true" alt="Top Languages" />
 </div>
